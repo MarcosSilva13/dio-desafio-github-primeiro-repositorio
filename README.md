@@ -6,3 +6,6 @@ Repositório criado para o desafio de Projeto.
 - [Donwload do Git](https://git-scm.com/downloads)
 - [Github Desktop Download](https://desktop.github.com/)
 
+- [Comandos Básicos Git](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile)
+
+  
